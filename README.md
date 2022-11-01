@@ -3,6 +3,8 @@ Sample for showing FSCalendar features on Xamarin.Forms.
 
 Tutorial:
 
+https://mp.weixin.qq.com/s/G03EGU6mEWZ0ypYPW4uMVA
+
 https://mp.weixin.qq.com/s/wo7H2Z7IPe7h_GX9EUnfIQ
 
 QQ Group:
